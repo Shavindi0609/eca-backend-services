@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: BORROW-SERVICE
+  config:
+    import: "configserver:http://localhost:8088"
