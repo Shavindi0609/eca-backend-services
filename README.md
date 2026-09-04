@@ -17,7 +17,7 @@ This repository acts as the main parent (super) repository for the backend busin
 - **Language:** Java 25
 - **Framework:** Spring Boot (Latest), Spring Cloud
 - **Data Access:** Spring Data
-- **Databases:** MySQL and MongoDB (Relational and Non-Relational integration)
+- **Databases:** Postgres SQL and MongoDB (Relational and Non-Relational integration)
 - **Process Manager:** PM2 (for automatic restarts and process management)
 
 ---

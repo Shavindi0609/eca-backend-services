@@ -16,7 +16,8 @@ target/
 Thumbs.db
 
 # Environment files
-.env
 
 # Java HotSpot error logs
 hs_err_pid*.log
+config.bat
+node_modules
